@@ -23,11 +23,7 @@ def productSum(array):
 
 array1 = [5,2,[7,-1],3,[6,[-13,8],4]] # expect 12
 array2 = [1, 2, 3, 4, 5] # expect 15
-array3 = [
-    [1, 2],
-    3,
-    [4, 5]
-] # expect 27
+array3 = [[1, 2],3,[4, 5]] # expect 27
 
 array4 = [
   [
